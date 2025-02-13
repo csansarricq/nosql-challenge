@@ -16,7 +16,6 @@ What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygi
       <p>o	Iceland<br>
       <p>o	Howe and Co Fish and Chips - Van 17<br>
       <br />  
-      <br />  
 How many establishments in each Local Authority area have a hygiene score of 0?
   <p>•	There are 55 establishments in the Local Authority are that has a hygiene score of 0.<br>
 
