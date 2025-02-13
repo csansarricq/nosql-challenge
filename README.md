@@ -4,10 +4,10 @@ From this challenge, we are using Jupyter Notebook to connect with a NoSQL datab
 Questions:
 Which establishments have a hygiene score equal to 20?
   <p>•	There are 41 establishments with a hygiene score of 20.<br />
-    
+    <br />
 Which establishments in London have a RatingValue greater than or equal to 4?
  <p>•	There are 33 establishments in London that has a Rating Value greater than 4.<br />
-   
+   <br />
 What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
   <p>•	The top 5 establishment sorted from lowest to highest score near Penang Flavors are:<br>
       <br />o	Volunteer<br>
@@ -15,7 +15,7 @@ What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygi
       <p>o	Atlantic Fish Bar<br>
       <p>o	Iceland<br>
       <p>o	Howe and Co Fish and Chips - Van 17<br>
-        
+      <br />  
 How many establishments in each Local Authority area have a hygiene score of 0?
   <p>•	There are 55 establishments in the Local Authority are that has a hygiene score of 0.<br>
 
